@@ -17,12 +17,12 @@
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/ReactQuery-ffffff?style=flat&logo=ReactQuery&logoColor=FF4154"/></a>
 
 
-### platform
+### Platform
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/gitHub-ffffff?style=flat&logo=github&logoColor=FF9900"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Amazon S3-ffffff?style=flat&logo=Amazon S3&logoColor=569A31"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/AWS Lambda-ffffff?style=flat&logo=AWS Lambda&logoColor=FF9900"/></a>
 
-### etc..
+### Etc..
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/CRA-ffffff?style=flat&logo=Create React App&logoColor=09D3AC"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Craco-ffffff?style=flat&logo=Create React App&logoColor=09D3AC"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/gitFlow-ffffff?style=flat&logo=git&logoColor=FF9900"/></a>
