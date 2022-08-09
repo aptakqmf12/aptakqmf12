@@ -21,6 +21,8 @@
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/gitHub-ffffff?style=flat&logo=github&logoColor=FF9900"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Amazon S3-ffffff?style=flat&logo=Amazon S3&logoColor=569A31"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/AWS Lambda-ffffff?style=flat&logo=AWS Lambda&logoColor=FF9900"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/GraphQL-ffffff?style=flat&logo=GraphQL&logoColor=E10098"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Apollo GraphQL-ffffff?style=flat&logo=Apollo GraphQL&logoColor=311C87"/></a>
 
 ### Etc..
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/CRA-ffffff?style=flat&logo=Create React App&logoColor=09D3AC"/></a>
