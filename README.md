@@ -29,3 +29,4 @@
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Craco-ffffff?style=flat&logo=Create React App&logoColor=09D3AC"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/gitFlow-ffffff?style=flat&logo=git&logoColor=FF9900"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Antd-ffffff?style=flat"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/html2canvas-ffffff?style=flat"/></a>
