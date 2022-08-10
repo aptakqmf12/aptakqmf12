@@ -1,5 +1,5 @@
 ## TaeWan Kim
-> `designer` `web publisher` 이력이 있고, 커뮤니케이션, 조화로움, 유연함을 중요시 여기는 개발자
+> `✨Designer` `✨Web publisher` 출신의 개발자로써 `커뮤니케이션🙏`을 중요시 여기고`꼼꼼함👀`을 강점으로 생각합니다
 
 ### Base
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=HTML5&logoColor=E34F26"/></a>
