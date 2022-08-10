@@ -1,4 +1,5 @@
 ## TaeWan Kim
+> 커뮤니케이션, 조화로움, 유연함을 중요시 여기는 개발자
 
 ### Base
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=HTML5&logoColor=E34F26"/></a>
