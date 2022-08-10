@@ -1,5 +1,5 @@
 ## TaeWan Kim
-> 커뮤니케이션, 조화로움, 유연함을 중요시 여기는 개발자
+> `designer` `web publisher` 이력이 있고, 커뮤니케이션, 조화로움, 유연함을 중요시 여기는 개발자
 
 ### Base
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=HTML5&logoColor=E34F26"/></a>
@@ -35,3 +35,8 @@
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/rechart.js-ffffff?style=flat"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Antd-ffffff?style=flat"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/html2canvas-ffffff?style=flat"/></a>
+
+### Design
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Photoshop-ffffff?style=flat&logo=Adobe Photoshop&logoColor=31A8FF"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Illustrator-ffffff?style=flat&logo=Adobe Illustrator&logoColor=FF9A00"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Figma-ffffff?style=flat&logo=Figma&logoColor=F24E1E"/></a>
