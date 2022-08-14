@@ -1,6 +1,8 @@
 ## TaeWan Kim
 > `✨Designer` `✨Web publisher` 출신의 개발자로써 `커뮤니케이션🙏`을 중요시 여기고`꼼꼼함👀`을 강점으로 생각합니다
 
+
+
 ### Base
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=CSS3&logoColor=1572B6"/></a>
@@ -40,3 +42,10 @@
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Photoshop-ffffff?style=flat&logo=Adobe Photoshop&logoColor=31A8FF"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Illustrator-ffffff?style=flat&logo=Adobe Illustrator&logoColor=FF9A00"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Figma-ffffff?style=flat&logo=Figma&logoColor=F24E1E"/></a>
+
+******************
+
+### Recent Interests
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Jest-ffffff?style=flat&logo=Jest&logoColor=C21325"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=000"/></a>
+
