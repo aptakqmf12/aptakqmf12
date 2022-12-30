@@ -50,5 +50,4 @@
 
 ### Recent Interests
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Jest-ffffff?style=flat&logo=Jest&logoColor=C21325"/></a>
-<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=Next.js&logoColor=000"/></a>
 
