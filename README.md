@@ -30,6 +30,7 @@
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/rechart.js-ffffff?style=flat"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Antd-ffffff?style=flat"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/html2canvas-ffffff?style=flat"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/storybook-ffffff?style=flat&logo=Storybook&logoColor=F24E1E"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Photoshop-ffffff?style=flat&logo=Adobe Photoshop&logoColor=31A8FF"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Illustrator-ffffff?style=flat&logo=Adobe Illustrator&logoColor=FF9A00"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Figma-ffffff?style=flat&logo=Figma&logoColor=F24E1E"/></a>
